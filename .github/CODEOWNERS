@@ -1,0 +1,5 @@
+# CODEOWNERS file for repository ownership
+# Generated automatically based on metadata.yml
+
+# Default ownership for all files
+* @Sixt/OSRE-TAU
